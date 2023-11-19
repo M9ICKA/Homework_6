@@ -61,7 +61,7 @@ public class Main {
                 System.out.print("It was in vain that they didn’t look at the animals and went home.");
             break;
         }
-        if (userchoise !=0 || userchoise != -1){
+        if (userchoise !=0 || userchoise != -1){  //написано для проверки пул реквеста.
             System.out.println("WTF how");
         }
 
