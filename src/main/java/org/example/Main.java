@@ -61,6 +61,9 @@ public class Main {
                 System.out.print("It was in vain that they didn’t look at the animals and went home.");
             break;
         }
+        if (userchoise !=0 || userchoise != -1){
+            System.out.println("WTF hou");
+        }
         // test commit
     }
 }
