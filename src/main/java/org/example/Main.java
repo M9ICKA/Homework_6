@@ -62,8 +62,8 @@ public class Main {
             break;
         }
         if (userchoise !=0 || userchoise != -1){
-            System.out.println("WTF hou");
+            System.out.println("WTF how");
         }
-        // test commit
+
     }
 }
